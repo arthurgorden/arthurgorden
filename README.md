@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/agorden"><img src="./devcard.png" width="356" alt="Arthur Gorden's Dev Card" target="_blank"/></a>
+<a href="https://app.daily.dev/agorden" target="_blank"><img src="./devcard.png" width="356" alt="Arthur Gorden's Dev Card"/></a>
 
 <!--
 **arthurgorden/arthurgorden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
